@@ -578,7 +578,9 @@ a {
       .site-blocks-cover h1 {
         font-size: 3rem;
         font-weight: 900;
-        line-height: 1.2; } }
+        line-height: 1.2;
+        padding: 2% 0;
+        border: 1px solid antiquewhite; } }
   .site-blocks-cover p {
     color: #fff;
     font-size: 1.5rem;
