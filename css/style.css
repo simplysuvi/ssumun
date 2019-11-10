@@ -78,6 +78,10 @@ a {
   width: 100%;
   z-index: 2;
   overflow: hidden; }
+  div.site-wrap
+  {
+    background-image: linear-gradient(to top, #fddb92cf 0%, #d1fff2d9 90%);
+  }
   .offcanvas-menu .site-wrap:before {
     opacity: 1;
     visibility: visible; }
