@@ -11,7 +11,7 @@ body {
 html { scroll-behavior: smooth; }
 
 #preloader {
-    background: url('/images/preloader.gif') no-repeat center center;
+    background: url('../images/preloader.gif') no-repeat center center;
     position: absolute;
     top: 0;
     left: 0;
