@@ -470,13 +470,19 @@ a {
     margin: 0;
     list-style: none;
     position: relative; }
-    .site-mobile-menu .site-nav-wrap a {
+    .site-mobile-menu .site-nav-wrap a 
+    {
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #212529; }
-      .site-mobile-menu .site-nav-wrap a:hover {
-        color: #f23a2e; }
+      color: #212529;
+      animation: 0.3s ease-in-out;
+    }
+      .site-mobile-menu .site-nav-wrap a:hover 
+      {
+        color: #f23a2e;
+        background-color: #f5f5ef;
+      }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
